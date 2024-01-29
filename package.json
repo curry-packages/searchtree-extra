@@ -1,0 +1,19 @@
+{
+    "name": "searchtree-extra",
+    "version": "1.0.0",
+    "author": "Michael Hanus <mh@informatik.uni-kiel.de>",
+    "synopsis": "Some extra libraries to deal with seach trees",
+    "category": [ "Logic", "Programming" ],
+    "license": "BSD-3-Clause",
+    "licenseFile": "LICENSE",
+    "dependencies": {
+        "base"         : ">= 3.2.0, < 4.0.0",
+        "random"       : ">= 3.0.0, < 4.0.0"
+    },
+    "exportedModules": [ "Control.Search.SearchTree.Generators",
+                         "Control.Search.SearchTree.Traversal" ],
+    "source": {
+        "git": "https://github.com/curry-packages/searchtree-extra.git",
+        "tag": "$version"
+    }
+}
