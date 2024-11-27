@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "author": "Michael Hanus <mh@informatik.uni-kiel.de>",
     "synopsis": "Some extra libraries to deal with seach trees",
-    "category": [ "Logic", "Programming" ],
+    "category": [ "Logic", "Programming", "Control" ],
     "license": "BSD-3-Clause",
     "licenseFile": "LICENSE",
     "dependencies": {
